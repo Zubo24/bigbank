@@ -1,2 +1,2 @@
 # bigbank
-To learn build explore
+App to learn build explore the transactions
